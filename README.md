@@ -1,4 +1,4 @@
 # jenkins
-hi..
-hello..
-This is file1
+echo "Hello world!"
+echo This is my first git practice.
+#
