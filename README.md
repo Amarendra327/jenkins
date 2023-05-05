@@ -1,4 +1,4 @@
 # jenkins
-echo "Hello Amar!"
-echo This is my first git practice.
+echo "Hello Kavya!"
+echo This is my first jenkins practice.
 #
